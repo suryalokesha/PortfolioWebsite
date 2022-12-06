@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PortfolioWebsite/static/css/main.a43a8aeb.css",
+    "main.js": "/PortfolioWebsite/static/js/main.36ae3f55.js",
+    "static/media/exppic.jpg": "/PortfolioWebsite/static/media/exppic.c6e4665e3456d9154a34.jpg",
+    "static/media/profilepic.jpg": "/PortfolioWebsite/static/media/profilepic.42eae74cd5410380db9e.jpg",
+    "static/media/TweenContactForm.JPG": "/PortfolioWebsite/static/media/TweenContactForm.59fb24aa4da7f2f2b03c.JPG",
+    "static/media/Surya Lokesh_Addagalla_CV.pdf": "/PortfolioWebsite/static/media/Surya Lokesh_Addagalla_CV.6e9e0d1ec7cdd4480a12.pdf",
+    "index.html": "/PortfolioWebsite/index.html",
+    "main.a43a8aeb.css.map": "/PortfolioWebsite/static/css/main.a43a8aeb.css.map",
+    "main.36ae3f55.js.map": "/PortfolioWebsite/static/js/main.36ae3f55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a43a8aeb.css",
+    "static/js/main.36ae3f55.js"
+  ]
+}
