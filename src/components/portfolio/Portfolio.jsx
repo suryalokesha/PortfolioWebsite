@@ -1,6 +1,6 @@
 import React from 'react';
 import './portfolio.css';
-import contactform from '../../assets/TweenContactForm.JPG';
+import contactform from '../../assets/HTML5Template.png';
 
 const Portfolio = () => {
   return (
@@ -12,7 +12,7 @@ const Portfolio = () => {
             <div className='portfolio_item-img'>
               <img src={contactform} ></img> 
             </div>
-            <h3>This is a digital agency site built using HTML/CSS/Bootstrap and it has working contact form</h3>
+            <h3>This is a sample Template for website built using HTML/CSS/Bootstrap and it has working contact form</h3>
             <div className='portfolio_item-cta'>
             <a href='https://suryalokesha.github.io/AgencySite/' className='btn btn-primary' target='_blank'>Live</a>
             </div>

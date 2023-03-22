@@ -1,10 +1,10 @@
 import React from 'react';
-//import './site.css';
+
 
 
 const Testimonials = () => {
   return (
-    <section id='testimonials'>Testimonials</section>
+   <div>Testimonals</div>
   )
 }
 
