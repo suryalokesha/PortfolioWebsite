@@ -27,16 +27,16 @@ const About = () => {
                     <article className='about_card'>
                         <FiUsers className='about_icon' />
                         <h5>Clients</h5>
-                        <small>5+ across Globe</small>
+                        <small>25+ across Globe</small>
                     </article>
                     <article className='about_card'>
                         <VscFolderLibrary className='about_icon' />
                         <h5>Projects</h5>
-                        <small>16 Completed</small>
+                        <small>36 Completed</small>
                     </article>
                 </div>
                 <p>
-                    I will provide more customizable products and solutions using .NET, Azure and SharePoint technologies.
+                    I will provide more customizable products and solutions using .NET, and SharePoint technologies.
                 </p>
                 <a href='#contact' className='btn btn-primary'>Let's Talk</a>
             </div>
