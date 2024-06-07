@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PortfolioWebsite/static/css/main.7e89fb6f.css",
-    "main.js": "/PortfolioWebsite/static/js/main.39ae9248.js",
+    "main.css": "/PortfolioWebsite/static/css/main.d464a072.css",
+    "main.js": "/PortfolioWebsite/static/js/main.e1dc204e.js",
     "static/media/exppic.jpg": "/PortfolioWebsite/static/media/exppic.c6e4665e3456d9154a34.jpg",
     "static/media/profilepic.jpg": "/PortfolioWebsite/static/media/profilepic.b73dd6d01fbc51bd69f8.jpg",
-    "static/media/Surya Lokesh_Addagalla_CV.pdf": "/PortfolioWebsite/static/media/Surya Lokesh_Addagalla_CV.391b606dde499b6b64b0.pdf",
+    "static/media/Surya Lokesh_Addagalla_CV.pdf": "/PortfolioWebsite/static/media/Surya Lokesh_Addagalla_CV.04e308b1904ecb95dace.pdf",
     "index.html": "/PortfolioWebsite/index.html",
-    "main.7e89fb6f.css.map": "/PortfolioWebsite/static/css/main.7e89fb6f.css.map",
-    "main.39ae9248.js.map": "/PortfolioWebsite/static/js/main.39ae9248.js.map"
+    "main.d464a072.css.map": "/PortfolioWebsite/static/css/main.d464a072.css.map",
+    "main.e1dc204e.js.map": "/PortfolioWebsite/static/js/main.e1dc204e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e89fb6f.css",
-    "static/js/main.39ae9248.js"
+    "static/css/main.d464a072.css",
+    "static/js/main.e1dc204e.js"
   ]
 }
